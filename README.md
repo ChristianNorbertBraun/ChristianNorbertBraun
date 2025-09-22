@@ -1,5 +1,3 @@
-<div align="center">
-
 ```
  _____ _                                       _   _     _            _
 |_   _| |                                     | | | |   (_)          | |
@@ -10,6 +8,8 @@
                                   | |
                                   |_|
 ```
+
+<div align="center">
 
 **Christian Braun**
 
