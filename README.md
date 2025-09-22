@@ -1,132 +1,68 @@
-<div align="center">
+# Christian Braun
+## The empathic dev
 
-```
-      dMb    dMb
-    dMMMb  dMMMb
-   dMMMMMMMMMMMb
-   YMMMMMMMMMMMMP
-    YMMMMMMMMMMP
-     YMMMMMMMP
-      YMMMP
-       YP
-```
-
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=32&duration=3000&pause=1000&color=6C7B95&center=true&vCenter=true&width=600&lines=Christian+Braun;The+empathic+dev" alt="Typing SVG" />
-</h1>
-
-</div>
+> Building bridges between humans and technology
 
 ---
 
-```bash
-Last login: Sun Dec 22 12:00:00 on ttys000
-```
+## 👋 About Me
 
-```bash
-$ whoami
-Christian Braun - iOS Lead Developer
-Currently freelancing at IBM
-The empathic developer who puts humans first
-```
+I believe in putting humans first - from user experience to developer collaboration. Better products are created when we invest in thoughtful human communication, whether with developers, clients, or customers.
 
-```bash
-$ cat about.txt
-Building bridges between humans and technology...
+**Core values:** Communication • Empathy • Integrity • Equality • Creativity • Introspection
 
-I believe in putting humans first - from user experience to developer collaboration.
-Better products are created when we invest in thoughtful human communication,
-whether with developers, clients, or customers.
+**Currently:** iOS Lead Developer, freelancing at IBM
 
-Core values: Communication • Empathy • Integrity • Equality • Creativity • Introspection
-```
+---
 
-```bash
-$ ls -la skills/
-total 7
-drwxr-xr-x  swift/          # Primary language
-drwxr-xr-x  kotlin_mp/      # Kotlin Multiplatform
-drwxr-xr-x  swiftui/        # Modern iOS UI
-drwxr-xr-x  uikit/          # Classic iOS framework
-drwxr-xr-x  coredata/       # Data persistence
-drwxr-xr-x  metal/          # Graphics & compute
-drwxr-xr-x  testing/        # Quality assurance
-drwxr-xr-x  ci_cd/          # DevOps pipelines
-```
+## 🛠 Technical Skills
 
-```bash
-$ cat current_projects.txt
-📱 picaboo                 - Professional photo editing app with photographer-crafted filters
-                            https://apps.apple.com/de/app/picaboo-fotografen-filter/id1518004700
+- **Primary:** Swift, Kotlin Multiplatform
+- **iOS:** SwiftUI, UIKit, CoreData, Metal
+- **Development:** Testing, CI/CD
+- **Focus:** iOS Development
 
-📚 Konvolut               - Personal vocabulary app (Beta testing available)
-                            Your personal vocabulary so you never forget a word again
-                            https://konvolut-app.de
+---
 
-🎙️ index out of bounds    - German tech podcast about the fun of being a developer
-                            Communicating the joy and excitement of development
-                            https://www.ioob.de
-```
+## 🚀 Current Projects
 
-```bash
-$ cat affiliations.txt
-🏗️  Appbaumeister Collective  - https://www.appbaumeister.de/
-🤖  Agentic Engineering Community
-💼  Currently: Lead Developer @ IBM (Freelance)
-```
+### 📱 picaboo
+Professional photo editing app with photographer-crafted filters
+[→ View on App Store](https://apps.apple.com/de/app/picaboo-fotografen-filter/id1518004700)
 
-```bash
-$ ls hobbies/
-keyboards/          # Love for mechanical keyboards
-woodworking/        # Crafting with wood
-terminal_aesthetics/ # Beautiful command line interfaces
-```
+### 📚 Konvolut
+Personal vocabulary app - Your personal vocabulary so you never forget a word again
+Beta testing available at [konvolut-app.de](https://konvolut-app.de)
 
-```bash
-$ system_info
-                     iOS Development
-                  ┌─────────────────────────┐
-                  │  ████████████████  95%  │  Swift
-                  │  ███████████████   88%  │  SwiftUI
-                  │  ██████████████    82%  │  UIKit
-                  │  █████████████     76%  │  Testing
-                  │  ████████████      70%  │  CI/CD
-                  └─────────────────────────┘
+### 🎙️ index out of bounds
+German tech podcast about the fun of being a developer
+Communicating the joy and excitement of development
+[→ Listen at ioob.de](https://www.ioob.de)
 
-🔗 Connect: https://theempathicdev.de
-📧 Contact: Through website
-🌐 Blog: theempathicdev.de
-```
+---
 
-```bash
-$ history | tail -5
-  Putting humans first in every line of code
-  Building empathetic software solutions
-  Crafting iOS experiences that matter
-  Sharing developer joy through podcasting
-  Creating tools that enhance human potential
-```
+## 🤝 Affiliations
+
+- **🏗️ Appbaumeister Collective** - [appbaumeister.de](https://www.appbaumeister.de/)
+- **🤖 Agentic Engineering Community**
+- **💼 Currently:** Lead Developer @ IBM (Freelance)
+
+---
+
+## 🎯 Interests
+
+- **Keyboards** - Love for mechanical keyboards
+- **Woodworking** - Crafting with wood
+- **Terminal aesthetics** - Beautiful command line interfaces
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ChristianNorbertBraun&color=blueviolet&style=for-the-badge)
 
 [![Website](https://img.shields.io/badge/Website-theempathicdev.de-FF6B6B?style=for-the-badge&logo=safari)](https://theempathicdev.de)
 [![Podcast](https://img.shields.io/badge/Podcast-index_out_of_bounds-4ECDC4?style=for-the-badge&logo=spotify)](https://www.ioob.de)
 [![App Store](https://img.shields.io/badge/App_Store-picaboo-000000?style=for-the-badge&logo=app-store)](https://apps.apple.com/de/app/picaboo-fotografen-filter/id1518004700)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristianNorbertBraun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianNorbertBraun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
