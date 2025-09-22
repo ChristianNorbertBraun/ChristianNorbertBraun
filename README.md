@@ -31,10 +31,7 @@ I believe in putting humans first - from user experience to developer collaborat
 
 ## 🛠 Technical Skills
 
-- **Primary:** Swift, Kotlin Multiplatform
-- **iOS:** SwiftUI, UIKit, CoreData, Metal
-- **Development:** Testing, CI/CD
-- **Focus:** iOS Development
+**Technologies:** Swift • Kotlin Multiplatform • SwiftUI • UIKit • CoreData • Metal • Testing • CI/CD • Figma • Sketch
 
 ---
 
