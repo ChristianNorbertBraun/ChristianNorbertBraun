@@ -1,5 +1,19 @@
-# Christian Braun
-## The empathic dev
+<div align="center">
+
+```
+ _   _                                  _   _     _          _
+| | | |                                | | | |   (_)        | |
+| |_| |__   ___  ___ _ __ ___  _ __  __ _| |_| |__  _  ___  __| | _____   __
+| __| '_ \ / _ \/ _ \ '_ ` _ \| '_ \/ _` | __| '_ \| |/ __|/ _` |/ _ \ \ / /
+| |_| | | |  __/  __/ | | | | | |_) | (_| | |_| | | | | (_| | (_| |  __/\ V /
+ \__|_| |_|\___|\___|_| |_| |_| .__/ \__,_|\__|_| |_|_|\___|\__,_|\___| \_/
+                             | |
+                             |_|
+```
+
+**Christian Braun**
+
+</div>
 
 > Building bridges between humans and technology
 
@@ -43,7 +57,7 @@ Communicating the joy and excitement of development
 
 ## 🤝 Affiliations
 
-- **🏗️ Appbaumeister Collective** - [appbaumeister.de](https://www.appbaumeister.de/)
+- **🏗️ Part of the Appbaumeister Collective** - [appbaumeister.de](https://www.appbaumeister.de/)
 - **🤖 Agentic Engineering Community**
 - **💼 Currently:** Lead Developer @ IBM (Freelance)
 
